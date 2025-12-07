@@ -1,4 +1,4 @@
-# Password Strength Checker 🔐
+# 🔑 Password Strength Checker
 
 A password examing tool that analyzes password strength using regex rules, detects weak patterns, and generates secure random passwords. Built under 3 hours during a cybersecurity hackathon.
 
