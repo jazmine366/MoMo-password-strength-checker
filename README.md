@@ -47,7 +47,6 @@ but the full source code is included in this repository and can be run locally.*
 
 ### **1. Terminal Password Checker**
 <img width="514" height="193" alt="Screenshot 2025-12-06 at 8 57 10 PM" src="https://github.com/user-attachments/assets/c3810d62-d93c-4916-83d5-b3be55243937" />
-<img width="510" height="148" alt="Screenshot 2025-12-06 at 9 01 28 PM" src="https://github.com/user-attachments/assets/95f43fe9-ff45-498c-8295-c7c46d70f2bb" />
 
 ### **2. Streamlit Frontend UI**
 <img width="1440" height="900" alt="Screenshot 2025-12-06 at 9 03 22 PM" src="https://github.com/user-attachments/assets/61759a09-0c20-4d4f-a1eb-95239d2b2216" />
