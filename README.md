@@ -47,10 +47,10 @@ but the full source code is included in this repository and can be run locally.*
 
 ### **1. Terminal Password Checker**
 <img width="514" height="193" alt="Screenshot 2025-12-06 at 8 57 10 PM" src="https://github.com/user-attachments/assets/c3810d62-d93c-4916-83d5-b3be55243937" />
+<img width="845" height="156" alt="Screenshot 2025-12-06 at 9 01 18 PM" src="https://github.com/user-attachments/assets/834d8b16-c902-4ef0-b421-3e3671059e17" />
 
 ### **2. Streamlit Frontend UI**
 <img width="1440" height="900" alt="Screenshot 2025-12-06 at 9 03 22 PM" src="https://github.com/user-attachments/assets/61759a09-0c20-4d4f-a1eb-95239d2b2216" />
-<img width="1440" height="900" alt="Screenshot 2025-12-06 at 9 02 19 PM" src="https://github.com/user-attachments/assets/a4d4f716-cbe8-4dfa-a50a-8273446df58d" />
 
 ### **3. 5–10 second GIF Demo**
 Generating a strong alternative + ps can not be same as username
